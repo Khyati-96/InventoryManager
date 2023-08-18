@@ -1,0 +1,9 @@
+{
+    "Id": 2,
+    "ItemName": "Guava",
+    "ItemType": "Fruit",
+    "ItemCount": 21,
+    "BBD": "0001-01-01T00:00:00",
+    "AisleId": 1,
+    "Aisle": null
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "AisleId": 1,
+        "Name": "Aisle A1",
+        "Desc": "Fruits Aisle",
+        "AisleCap": 200,
+        "Item": null
+    },
+    {
+        "AisleCap": 150,
+        "AisleId": 2,
+        "Desc": "Vegitables Aisle",
+        "Item": null,
+        "Name": "Aisle A2"
+    }
+
+]
